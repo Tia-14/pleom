@@ -14,3 +14,20 @@
       "img/catalogo/twist-1.webp"
     ]
   }
+  
+  {
+    "nome": "Nome del nuovo prodotto",
+    "codice": "PLM-NUOVO",
+    "designer": "Designer",
+    "dimensioni": "00 x 00 x 00 cm",
+    "materiali": "Materiale",
+    "colorazioni": "Colori",
+    "prezzo_diretto": "00.00€",
+    "prezzo_conto_vendita": "00.00€",
+    "prezzo_pubblico": "00.00€",
+    "immagini": [
+      "img/catalogo/nuovafoto-1.webp"
+    ]
+  }
+
+  ]
