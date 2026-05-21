@@ -33,6 +33,42 @@
       "img/foto-3.jpg",
       "img/foto-4.jpg"
     ]
+  },
+
+    {
+    "nome": "Nome del tuo Prodotto",
+    "codice": "PLM-XXXX",
+    "designer": "Studio Pleom",
+    "dimensioni": "00 x 00 x 00 cm",
+    "materiali": "Inserisci Materiale",
+    "colorazioni": "Colore 1, Colore 2",
+    "prezzo_diretto": "00.00€",
+    "prezzo_conto_vendita": "00.00€",
+    "prezzo_pubblico": "00.00€",
+    "immagini": [
+      "img/foto-1.jpg",
+      "img/foto-2.jpg",
+      "img/foto-3.jpg",
+      "img/foto-4.jpg"
+    ]
+  },
+
+    {
+    "nome": "Nome del tuo Prodotto",
+    "codice": "PLM-XXXX",
+    "designer": "Studio Pleom",
+    "dimensioni": "00 x 00 x 00 cm",
+    "materiali": "Inserisci Materiale",
+    "colorazioni": "Colore 1, Colore 2",
+    "prezzo_diretto": "00.00€",
+    "prezzo_conto_vendita": "00.00€",
+    "prezzo_pubblico": "00.00€",
+    "immagini": [
+      "img/foto-1.jpg",
+      "img/foto-2.jpg",
+      "img/foto-3.jpg",
+      "img/foto-4.jpg"
+    ]
   }
   
 ]
