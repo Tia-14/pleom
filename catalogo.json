@@ -2,11 +2,14 @@
   {
     "nome": "Vaso Twist",
     "codice": "PLM-TW01",
-    "prezzo": "25.00€",
-    "moq": "5 pz",
+    "designer": "Studio Pleom",
+    "dimensioni": "15 x 15 x 25 cm",
+    "materiali": "PLA Bio-based",
+    "colorazioni": "Bianco, Nero, Sabbia",
+    "prezzo_diretto": "25.00€",
+    "prezzo_conto_vendita": "32.50€",
+    "prezzo_pubblico": "65.00€",
     "immagini": [
-      "img/catalogo/twist-1.webp",
-      "img/catalogo/twist-2.webp"
+      "img/catalogo/twist-1.webp"
     ]
   }
-]
