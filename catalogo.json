@@ -1,5 +1,4 @@
 [
-  
   {
     "nome": "Vaso Twist",
     "codice": "PLM-TW01",
@@ -11,23 +10,29 @@
     "prezzo_conto_vendita": "32.50€",
     "prezzo_pubblico": "65.00€",
     "immagini": [
-      "img/catalogo/twist-1.webp"
+      "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&q=80&w=600&h=750",
+      "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?auto=format&fit=crop&q=80&w=600&h=750",
+      "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&q=80&w=600&h=750",
+      "https://images.unsplash.com/photo-1613946069412-38f7f1ff0b65?auto=format&fit=crop&q=80&w=600&h=750"
     ]
-  }
+  },
   
   {
-    "nome": "Nome del nuovo prodotto",
-    "codice": "PLM-NUOVO",
-    "designer": "Designer",
+    "nome": "Nome del tuo Prodotto",
+    "codice": "PLM-XXXX",
+    "designer": "Studio Pleom",
     "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Materiale",
-    "colorazioni": "Colori",
+    "materiali": "Inserisci Materiale",
+    "colorazioni": "Colore 1, Colore 2",
     "prezzo_diretto": "00.00€",
     "prezzo_conto_vendita": "00.00€",
     "prezzo_pubblico": "00.00€",
     "immagini": [
-      "img/catalogo/nuovafoto-1.webp"
+      "img/foto-1.jpg",
+      "img/foto-2.jpg",
+      "img/foto-3.jpg",
+      "img/foto-4.jpg"
     ]
   }
-
-  ]
+  
+]
