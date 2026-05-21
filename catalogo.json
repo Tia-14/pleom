@@ -1,0 +1,25 @@
+json
+[
+[
+{
+{
+"nome": "Vaso Twist",
+"nome": "Vaso Twist",
+"codice": "PLM-TW01",
+"codice": "PLM-TW01",
+"prezzo": "25.00€",
+"prezzo": "25.00€",
+"moq": "5 pz",
+"moq": "5 pz",
+"immagini": [
+"immagini": [
+"img/catalogo/twist-1.webp",
+"img/catalogo/twist-1.webp",
+"img/catalogo/twist-2.webp"
+"img/catalogo/twist-2.webp"
+]
+]
+}
+}
+]
+]
