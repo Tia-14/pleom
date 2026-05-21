@@ -113,7 +113,7 @@
                     throw new Error('File catalogo.json non trovato');
                 }
                 const prodotti = await response.json();
-                renderCatalogo(prodotti);
+                renderCatalogo(prodotti.reverse());
             } catch (error) {
                 console.log("Modalità Preview: 'catalogo.json' non trovato, carico dati di esempio.");
                 renderCatalogo(mockDataPreview);
