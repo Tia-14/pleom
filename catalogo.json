@@ -1,14 +1,14 @@
 [
   {
-    "nome": "Nome del tuo Prodotto",
-    "codice": "PLM-XXXX",
-    "designer": "Studio Pleom",
-    "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Inserisci Materiale",
-    "colorazioni": "Colore 1, Colore 2",
-    "prezzo_diretto": "00.00€",
-    "prezzo_conto_vendita": "00.00€",
-    "prezzo_pubblico": "00.00€",
+    "nome": "Amarello",
+    "codice": "AMASPE-FB",
+    "designer": "Filippo Botter",
+    "dimensioni": "19 x 20 x 26 cm",
+    "materiali": "PLA, acrilico, sughero",
+    "colorazioni": "50+",
+    "prezzo_diretto": "€36.92",
+    "prezzo_conto_vendita": "€44.30",
+    "prezzo_pubblico": "€90",
     "immagini": [
       "img/foto-1.jpg",
       "img/foto-2.jpg",
@@ -18,15 +18,15 @@
   },
   
   {
-    "nome": "Nome del tuo Prodotto",
-    "codice": "PLM-XXXX",
-    "designer": "Studio Pleom",
-    "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Inserisci Materiale",
-    "colorazioni": "Colore 1, Colore 2",
-    "prezzo_diretto": "00.00€",
-    "prezzo_conto_vendita": "00.00€",
-    "prezzo_pubblico": "00.00€",
+  "nome": "Arashiyama",
+  "codice": "ARAINC-DR",
+  "designer": "Diego Reggiani",
+  "dimensioni": "2.5 x 2 x 16 cm",
+  "materiali": "PLA",
+  "colorazioni": "50+",
+  "prezzo_diretto": "7.31€",
+  "prezzo_conto_vendita": "8.77€",
+  "prezzo_pubblico": "18.00€"
     "immagini": [
       "img/foto-1.jpg",
       "img/foto-2.jpg",
@@ -36,15 +36,15 @@
   },
 
   {
-    "nome": "Nome del tuo Prodotto",
-    "codice": "PLM-XXXX",
-    "designer": "Studio Pleom",
-    "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Inserisci Materiale",
-    "colorazioni": "Colore 1, Colore 2",
-    "prezzo_diretto": "00.00€",
-    "prezzo_conto_vendita": "00.00€",
-    "prezzo_pubblico": "00.00€",
+  "nome": "Twist",
+  "codice": "TWIVAS-MM",
+  "designer": "Mattia Maggiori",
+  "dimensioni": "6 x 6 x 15 cm",
+  "materiali": "PLA/PETG",
+  "colorazioni": "50+",
+  "prezzo_diretto": "11.01€",
+  "prezzo_conto_vendita": "13.21€",
+  "prezzo_pubblico": "27.00€"
     "immagini": [
       "img/foto-1.jpg",
       "img/foto-2.jpg",
@@ -54,15 +54,15 @@
   },
 
   {
-    "nome": "Nome del tuo Prodotto",
-    "codice": "PLM-XXXX",
-    "designer": "Studio Pleom",
-    "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Inserisci Materiale",
-    "colorazioni": "Colore 1, Colore 2",
-    "prezzo_diretto": "00.00€",
-    "prezzo_conto_vendita": "00.00€",
-    "prezzo_pubblico": "00.00€",
+  "nome": "Globulo",
+  "codice": "GLOTAS-SM",
+  "designer": "Samuele Mengarelli",
+  "dimensioni": "16 x 18 x 4 cm",
+  "materiali": "PLA/PETG",
+  "colorazioni": "50+",
+  "prezzo_diretto": "14.40€",
+  "prezzo_conto_vendita": "17.28€",
+  "prezzo_pubblico": "35.00€"
     "immagini": [
       "img/foto-1.jpg",
       "img/foto-2.jpg",
@@ -72,15 +72,15 @@
   },
 
   {
-    "nome": "Nome del tuo Prodotto",
-    "codice": "PLM-XXXX",
-    "designer": "Studio Pleom",
-    "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Inserisci Materiale",
-    "colorazioni": "Colore 1, Colore 2",
-    "prezzo_diretto": "00.00€",
-    "prezzo_conto_vendita": "00.00€",
-    "prezzo_pubblico": "00.00€",
+  "nome": "Totem (4pz)",
+  "codice": "TOTCAN-SM",
+  "designer": "Samuele Mengarelli",
+  "dimensioni": "5 x 5 x 12 cm",
+  "materiali": "PLA",
+  "colorazioni": "50+",
+  "prezzo_diretto": "13.92€",
+  "prezzo_conto_vendita": "16.70€",
+  "prezzo_pubblico": "34.00€"
     "immagini": [
       "img/foto-1.jpg",
       "img/foto-2.jpg",
@@ -90,15 +90,15 @@
   },
 
     {
-    "nome": "Nome del tuo Prodotto",
-    "codice": "PLM-XXXX",
-    "designer": "Studio Pleom",
-    "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Inserisci Materiale",
-    "colorazioni": "Colore 1, Colore 2",
-    "prezzo_diretto": "00.00€",
-    "prezzo_conto_vendita": "00.00€",
-    "prezzo_pubblico": "00.00€",
+  "nome": "Doodle",
+  "codice": "DOOPEN-SM",
+  "designer": "Samuele Mengarelli",
+  "dimensioni": "8,5 x 8,5 x 10 cm",
+  "materiali": "PLA/PETG",
+  "colorazioni": "50+",
+  "prezzo_diretto": "13.79€",
+  "prezzo_conto_vendita": "16.54€",
+  "prezzo_pubblico": "34.00€"
     "immagini": [
       "img/foto-1.jpg",
       "img/foto-2.jpg",
@@ -108,15 +108,15 @@
   },
 
     {
-    "nome": "Nome del tuo Prodotto",
-    "codice": "PLM-XXXX",
-    "designer": "Studio Pleom",
-    "dimensioni": "00 x 00 x 00 cm",
-    "materiali": "Inserisci Materiale",
-    "colorazioni": "Colore 1, Colore 2",
-    "prezzo_diretto": "00.00€",
-    "prezzo_conto_vendita": "00.00€",
-    "prezzo_pubblico": "00.00€",
+  "nome": "Droppin",
+  "codice": "DROTAS-AS",
+  "designer": "Alice Salis",
+  "dimensioni": "18 x 17 x 40 cm",
+  "materiali": "PLA/PETG",
+  "colorazioni": "50+",
+  "prezzo_diretto": "17.10€",
+  "prezzo_conto_vendita": "20.52€",
+  "prezzo_pubblico": "42.00€"
     "immagini": [
       "img/foto-1.jpg",
       "img/foto-2.jpg",
