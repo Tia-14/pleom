@@ -40,17 +40,6 @@
     <script>
         document.getElementById('year').textContent = new Date().getFullYear();
 
-        const mockDataPreview = [
-            {
-                "nome": "Vaso Twist", "codice": "PLM-TW01", "designer": "Studio Pleom", "dimensioni": "15 x 15 x 25 cm", "materiali": "PLA Bio-based", "colorazioni": "Bianco, Nero, Sabbia", "prezzo_diretto": "25.00€", "prezzo_conto_vendita": "32.50€", "prezzo_pubblico": "65.00€",
-                "immagini": [
-                    "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&q=80&w=600&h=750", 
-                    "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?auto=format&fit=crop&q=80&w=600&h=750",
-                    "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?auto=format&fit=crop&q=80&w=600&h=750",
-                    "https://images.unsplash.com/photo-1613946069412-38f7f1ff0b65?auto=format&fit=crop&q=80&w=600&h=750"
-                ]
-            }
-        ];
 
         window.cambiaImmagine = function(idImmaginePrincipale, nuovaSorgente, idThumbContainer, indexThumb) {
             const imgEl = document.getElementById(idImmaginePrincipale);
@@ -106,7 +95,7 @@
         }
         
         // Init: Prova a caricare il file reale, altrimenti usa i dati di test per la preview
-        async function initCatalog() {
+       async function initCatalog() {
             try {
                 const response = await fetch('catalogo.json');
                 if (!response.ok) {
@@ -115,8 +104,8 @@
                 const prodotti = await response.json();
                 renderCatalogo(prodotti.reverse());
             } catch (error) {
-                console.log("Modalità Preview: 'catalogo.json' non trovato, carico dati di esempio.");
-                renderCatalogo(mockDataPreview);
+                console.log("Errore nel caricamento del catalogo:", error);
+                document.getElementById('griglia-prodotti').innerHTML = '<p class="text-center w-full text-red-500 mt-10">Impossibile caricare i prodotti in questo momento.</p>';
             }
         }
 
