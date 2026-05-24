@@ -103,9 +103,18 @@
                 }
                 const prodotti = await response.json();
                 renderCatalogo(prodotti.reverse());
-            } catch (error) {
+           } catch (error) {
                 console.log("Errore nel caricamento del catalogo:", error);
-                document.getElementById('griglia-prodotti').innerHTML = '<div class="col-span-full flex items-center justify-center min-h-[60vh]"><p class="text-center text-red-500">Impossibile caricare i prodotti in questo momento.</p></div>';
+                const griglia = document.getElementById('griglia-prodotti');
+                
+                // 1. Forza il contenitore principale (<main>) a centrare i contenuti in verticale
+                griglia.parentElement.classList.add('flex', 'flex-col', 'justify-center');
+                
+                // 2. Rimuove il layout a griglia (che non serve per il testo) e centra in orizzontale
+                griglia.className = "w-full flex items-center justify-center";
+                
+                // 3. Inserisce il messaggio
+                griglia.innerHTML = '<p class="text-center text-red-500">Impossibile caricare i prodotti in questo momento.</p>';
             }
         }
 
