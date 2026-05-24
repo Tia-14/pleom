@@ -88,7 +88,7 @@
                     <div class="flex-grow flex flex-col px-1 pb-1">
                         <div class="flex justify-between items-start mb-3">
                             <h2 class="text-lg font-medium text-[#101010] tracking-tight leading-tight">${prodotto.nome}</h2>
-                            <span class="font-mono text-[10px] bg-[#f0f0f0] text-[#101010] px-2 py-1 rounded font-semibold whitespace-nowrap ml-2">REF: ${prodotto.codice}</span>
+                            <span class="font-mono text-[10px] bg-[#f0f0f0] text-[#101010] px-2 py-1 rounded font-semibold whitespace-nowrap ml-2">SKU: ${prodotto.codice}</span>
                         </div>
                         <div class="grid grid-cols-2 gap-y-2 gap-x-2 text-[11px] text-[#101010] mb-4">
                             ${['Designer', 'Dimensioni', 'Materiali', 'Colorazioni'].map(key => `<div><span class="text-[#101010] opacity-70 font-normal block text-[9px] uppercase tracking-wider mb-0.5">${key}</span> <span class="font-medium block truncate">${prodotto[key.toLowerCase()] || '-'}</span></div>`).join('')}
