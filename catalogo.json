@@ -10,10 +10,9 @@
     "prezzo_conto_vendita": "€44.30",
     "prezzo_pubblico": "€90",
     "immagini": [
-      "img/foto-1.jpg",
-      "img/foto-2.jpg",
-      "img/foto-3.jpg",
-      "img/foto-4.jpg"
+      "img/catalogo/Amarello-1.webp",
+      "img/catalogo/Amarello-2.webp",
+      "img/catalogo/Amarello-3.webp"
     ]
   },
   
@@ -28,10 +27,9 @@
   "prezzo_conto_vendita": "8.77€",
   "prezzo_pubblico": "18.00€",
     "immagini": [
-      "img/foto-1.jpg",
-      "img/foto-2.jpg",
-      "img/foto-3.jpg",
-      "img/foto-4.jpg"
+      "img/catalogo/Arashiyama-1.webp",
+      "img/catalogo/Arashiyama-2.webp",
+      "img/catalogo/Arashiyama-3.webp"
     ]
   },
 
@@ -48,8 +46,7 @@
     "immagini": [
       "img/catalogo/Twist-1.webp",
       "img/catalogo/Twist-2.webp",
-      "img/catalogo/Twist-3.webp",
-      "img/catalogo/Twist-4.webp"
+      "img/catalogo/Twist-3.webp"
     ]
   },
 
@@ -64,10 +61,9 @@
   "prezzo_conto_vendita": "17.28€",
   "prezzo_pubblico": "35.00€",
     "immagini": [
-      "img/foto-1.jpg",
-      "img/foto-2.jpg",
-      "img/foto-3.jpg",
-      "img/foto-4.jpg"
+      "img/catalogo/Globulo-1.webp",
+      "img/catalogo/Globulo-2.webp",
+      "img/catalogo/Globulo-3.webp"
     ]
   },
 
@@ -82,10 +78,9 @@
   "prezzo_conto_vendita": "16.70€",
   "prezzo_pubblico": "34.00€",
     "immagini": [
-      "img/foto-1.jpg",
-      "img/foto-2.jpg",
-      "img/foto-3.jpg",
-      "img/foto-4.jpg"
+      "img/catalogo/Totem-1.webp",
+      "img/catalogo/Totem-2.webp",
+      "img/catalogo/Totem-3.webp"
     ]
   },
 
@@ -117,10 +112,9 @@
   "prezzo_conto_vendita": "20.52€",
   "prezzo_pubblico": "42.00€",
     "immagini": [
-      "img/foto-1.jpg",
-      "img/foto-2.jpg",
-      "img/foto-3.jpg",
-      "img/foto-4.jpg"
+      "img/catalogo/Droppin-1.webp",
+      "img/catalogo/Droppin-2.webp",
+      "img/catalogo/Droppin-3.webp"
     ]
   }
   
